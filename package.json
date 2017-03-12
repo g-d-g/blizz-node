@@ -1,0 +1,28 @@
+{
+  "name": "blizz",
+  "version": "1.0.0",
+  "description": "Performant and extra-unique UUID generation in Node",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuturisticCake/blizz-node.git"
+  },
+  "keywords": [
+    "uuid",
+    "unique",
+    "id",
+    "identifier",
+    "session",
+    "snowflake"
+  ],
+  "author": "Ethan Davis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FuturisticCake/blizz-node/issues"
+  },
+  "homepage": "https://github.com/FuturisticCake/blizz-node#readme",
+  "dependencies": {
+    "node-genid": "^1.0.0"
+  }
+}
