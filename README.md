@@ -16,13 +16,11 @@ const blizz = require("blizz");
 console.log(blizz()); // '1489289344571-SHNzAri4E4wQTcjY3bB2SEV75'
 ```
 
----
 
 ## Performance Information
 
 In tests on some older laptops, blizz was able to generate 100,000 unique blizz IDs in approximately 75ms. blizz is a highly performant and scalable UUID generation system.
 
----
 
 ## License
 
